@@ -210,7 +210,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rust-grpc-example"
+name = "rust-protobuf-example"
 version = "0.1.0"
 dependencies = [
  "prost 0.6.1 (registry+https://github.com/rust-lang/crates.io-index)",
